@@ -1,0 +1,28 @@
+name: LeverageFormulas1
+favicon: null
+layout_spectrum: 0.18672669027000666
+typography_spectrum: 0.20721725351177156
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.47998902085237205
+  lightness: 0.7408774420619011
+  saturation: 0.14716248586773872
+  rhythmicContrast: 0.18381274421699345
+purpose: []
