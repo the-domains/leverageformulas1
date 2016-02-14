@@ -1,7 +1,7 @@
 name: LeverageFormulas1
 favicon: null
 layout_spectrum: 0.18672669027000666
-typography_spectrum: 0.20721725351177156
+typography_spectrum: 0.75793
 title: LeverageFormulas
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.47998902085237205
+  brandStrength: 0.75
   lightness: 0.7408774420619011
   saturation: 0.14716248586773872
   rhythmicContrast: 0.18381274421699345
